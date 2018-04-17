@@ -2,6 +2,7 @@
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/ShSukkar/GreenField.png?columns=all)](https://waffle.io/ShSukkar/GreenField?utm_source=badge)
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/ShSukkar/GreenField.png?columns=all)](https://waffle.io/ShSukkar/GreenField?utm_source=badge)
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/ShSukkar/GreenField.png?columns=all)](https://waffle.io/ShSukkar/GreenField?utm_source=badge)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/ShSukkar/GreenField.png?columns=all)](https://waffle.io/ShSukkar/GreenField?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/team-piranha/greenfield.png?label=ready&title=Ready)](https://waffle.io/team-piranha/greenfield)
 [![Stories in Ready](https://badge.waffle.io/Project-Ganymede/Greenfield.png?label=ready&title=Ready)](https://waffle.io/Project-Ganymede/Greenfield)
 [![Stories in Ready](https://badge.waffle.io/Project-Ganymede/Greenfield.png?label=ready&title=Ready)](https://waffle.io/Project-Ganymede/Greenfield)
